@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.10+-blue)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.29-orange)](https://streamlit.io/)
 [![Status](https://img.shields.io/badge/status-active-success)](https://github.com/)
-[![Live Demo](https://img.shields.io/badge/Live-App-Streamlit-blue)](https://ai-code-reviewer-bs94x85mpt6v85v7vdk67q.streamlit.app/)
 
 
 ---
